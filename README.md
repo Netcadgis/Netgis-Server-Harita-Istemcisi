@@ -1,0 +1,1 @@
+# Netgis-Server-Harita-Istemcisi
